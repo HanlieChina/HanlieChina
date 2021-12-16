@@ -3,9 +3,9 @@ Windows 11 on x64
 
 Windows 10 on x64
 
-MacOs Monterey 12 on Arm
+MacOS Monterey 12 on Arm
 
-MacOs Monterey 12 on x64
+MacOS Monterey 12 on x64
 
 
 
