@@ -7,7 +7,7 @@ MacOS Monterey 12 on Arm
 
 MacOS Monterey 12 on x64
 
-
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 
 # 摸！
